@@ -3,12 +3,13 @@
 Apuntau una peli que vos agradi i comentau 2 pelis dels companys.
 Possar sempre qui sou abans d'escriure:
 
+Marc: Terminator 2
 Mr. Kubrick: 2001 (Kico: bona però segons qui es pot adormir)
 Mr. Douglas: Senderos de Gloria (Kico: Peli de guerra, de juicios y pacifista. Sam: Nomes mir pelis amb angles)
 <<<<<<< HEAD
 Kico: Blade Runner (Sam: No l'he vista) (L'has de veure. Una de les millors de SF)(Raul: No se quina es)
-Sam: I am Legend(Raul: not bad)
-Raul: Fog hill of the five element
+Sam: I am Legend(Raul: not bad) (Marc: molt bona)
+Raul: Fog hill of the five element (Marc: no l'he vist)
 =======
 Kico: Blade Runner (Sam: No l'he vista) (L'has de veure. Una de les millors de SF)
 Sam: I am Legend
