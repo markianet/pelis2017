@@ -1,28 +1,17 @@
 ﻿LesNostresPelis2017.txt
-
 Apuntau una peli que vos agradi i comentau 2 pelis dels companys.
 Possar sempre qui sou abans d'escriure:
-
 Mr. Kubrick: 2001 (Kico: bona però segons qui es pot adormir)
 Mr. Douglas: Senderos de Gloria (Kico: Peli de guerra, de juicios y pacifista. Sam: Nomes mir pelis amb angles)
-<<<<<<< HEAD
 Kico: Blade Runner (Sam: No l'he vista) (L'has de veure. Una de les millors de SF)(Jason: Pensava que era un joc)
 Sam: I am Legend (Jason: Will Smith??)
 Jason: Buscando a Nemo
-=======
-<<<<<<< HEAD
 Kico: Blade Runner (Sam: No l'he vista) (L'has de veure. Una de les millors de SF)(Raul: No se quina es)
 Sam: I am Legend(Raul: not bad)
 Raul: Fog hill of the five element
-=======
 Kico: Blade Runner (Sam: No l'he vista) (L'has de veure. Una de les millors de SF)
 Sam: I am Legend
 <<<<<<< HEAD
 Antonio: Inception, Memento, Interstellar...
-=======
 Kico: No SABEU DE PELIS!
->>>>>>> 8261235284b3d808b541a20d8e965dd0c9937332
 
->>>>>>> f73c4dbcb4471b2a6ec7bec3c5582b0dc008fa01
-
->>>>>>> f73c4dbcb4471b2a6ec7bec3c5582b0dc008fa01
