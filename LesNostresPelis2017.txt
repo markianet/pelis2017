@@ -7,4 +7,10 @@ Mr. Kubrick: 2001 (Kico: bona però segons qui es pot adormir)
 Mr. Douglas: Senderos de Gloria (Kico: Peli de guerra, de juicios y pacifista. Sam: Nomes mir pelis amb angles)
 Kico: Blade Runner (Sam: No l'he vista) (L'has de veure. Una de les millors de SF)
 Sam: I am Legend
+<<<<<<< HEAD
 Antonio: Inception, Memento, Interstellar...
+=======
+Kico: No SABEU DE PELIS!
+
+
+>>>>>>> f73c4dbcb4471b2a6ec7bec3c5582b0dc008fa01
