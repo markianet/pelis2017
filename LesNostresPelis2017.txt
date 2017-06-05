@@ -16,6 +16,14 @@ Raul: Fog hill of the five element (Marc: no l'he vist)
 Esmeralda: El diario de Noa Kico: no la he vista!! Esmeralda: agafa mocador, perquè ploraras ;D (Antonio: muy empalagosa no?)
 Antonio: Inception, Memento, Interstellar...(Sam: massa avorrides per jo)
 Kico: No SABEU DE PELIS!
+<<<<<<< HEAD
+=======
+Raul: KEK
+>>>>>>> f73c4dbcb4471b2a6ec7bec3c5582b0dc008fa01
+
+
+=======
 Raul: KEK (Antonio: k)
 Joan: Nausica i la vall del vent
 Joan: Battle Royale (origen de Los juegos del hambre) MOLT BONA!
+>>>>>>> 7181991564f73ac469bce126d031d3b2fbd9f223
