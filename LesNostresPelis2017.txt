@@ -1,24 +1,29 @@
 ﻿LesNostresPelis2017.txt
-
 Apuntau una peli que vos agradi i comentau 2 pelis dels companys.
 Possar sempre qui sou abans d'escriure:
-
-Marc: Terminator 2
 Mr. Kubrick: 2001 (Kico: bona però segons qui es pot adormir)
 Mr. Douglas: Senderos de Gloria (Kico: Peli de guerra, de juicios y pacifista. Sam: Nomes mir pelis amb angles)
-<<<<<<< HEAD
+Kico: Blade Runner (Sam: No l'he vista) (L'has de veure. Una de les millors de SF)(Jason: Pensava que era un joc)
+Sam: I am Legend (Jason: Will Smith??) (Raul: not bad) (Marc: molt bona)(Esmeralda: és bona?)
+Jason: Buscando a Nemo
 Kico: Blade Runner (Sam: No l'he vista) (L'has de veure. Una de les millors de SF)(Raul: No se quina es)
-Sam: I am Legend(Raul: not bad) (Marc: molt bona)
+Raul: Fog hill of the five element
+Marc: Terminator 2 (Joan: i Terminator 1¿)
+Mr. Kubrick: 2001 (Kico: bona però segons qui es pot adormir)(Antonio: super pendiente tu!!)
+Mr. Douglas: Senderos de Gloria (Kico: Peli de guerra, de juicios y pacifista. Sam: Nomes mir pelis amb angles)
+Kico: Blade Runner (Sam: No l'he vista) (L'has de veure. Una de les millors de SF)(Raul: No se quina es)
 Raul: Fog hill of the five element (Marc: no l'he vist)
-=======
-Kico: Blade Runner (Sam: No l'he vista) (L'has de veure. Una de les millors de SF)
-Sam: I am Legend
-<<<<<<< HEAD
-Antonio: Inception, Memento, Interstellar...
-=======
+Esmeralda: El diario de Noa Kico: no la he vista!! Esmeralda: agafa mocador, perquè ploraras ;D (Antonio: muy empalagosa no?)
+Antonio: Inception, Memento, Interstellar...(Sam: massa avorrides per jo)
 Kico: No SABEU DE PELIS!
+<<<<<<< HEAD
 =======
 Raul: KEK
 >>>>>>> f73c4dbcb4471b2a6ec7bec3c5582b0dc008fa01
 
 
+=======
+Raul: KEK (Antonio: k)
+Joan: Nausica i la vall del vent
+Joan: Battle Royale (origen de Los juegos del hambre) MOLT BONA!
+>>>>>>> 7181991564f73ac469bce126d031d3b2fbd9f223
