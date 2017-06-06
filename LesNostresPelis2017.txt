@@ -1,22 +1,16 @@
 ﻿LesNostresPelis2017.txt
 Apuntau una peli que vos agradi i comentau 2 pelis dels companys.
 Possar sempre qui sou abans d'escriure:
-<<<<<<< HEAD
 Sam: I am Legend (Jason: Will Smith??) (Raul: not bad) (Marc: molt bona)(Esmeralda: és bona?)(ander: es molt bona)
-Jason: Buscando a Nemo
-=======
-Sam: I am Legend (Jason: Will Smith??) (Raul: not bad) (Marc: molt bona)(Esmeralda: és bona?)
-Jason: Buscando a Nemo (Marc: Buscando a Dori)
->>>>>>> ddd936cee5d3ee9f0db87e97413abc9b790b25c2
+Jason: Buscando a Nemo (Marc: Buscando a Dori) (Joan: infantils)
 Kico: Blade Runner (Sam: No l'he vista) (L'has de veure. Una de les millors de SF)(Raul: No se quina es) (Jason: Pensava que era un joc)
 Marc: Terminator 2 (Joan: i Terminator 1¿)(Jason: no he vist cap d'aquestes)
 Mr. Kubrick: 2001 (Kico: bona però segons qui es pot adormir)(Antonio: super pendiente tu!!)(ander: es molt bona, et menja el cap!)
 Mr. Douglas: Senderos de Gloria (Kico: Peli de guerra, de juicios y pacifista. Sam: Nomes mir pelis amb angles)
 Raul: Fog hill of the five element (Marc: no l'he vist)
-Esmeralda: El diario de Noa Kico: no la he vista!! Esmeralda: agafa mocador, perquè ploraras ;D (Antonio: muy empalagosa no?)
+Esmeralda: El diario de Noa Kico: no la he vista!! Esmeralda: agafa mocador, perquè ploraras ;D (Antonio: muy empalagosa no?) (Esmeralda: sólo apto para sensiblones jaja)
 Antonio: Inception, Memento, Interstellar...(Sam: massa avorrides per jo) (Marc: Inception for president!)
 Kico: No SABEU DE PELIS!
-Joan: Nausica i la vall del vent
 Joan: Battle Royale (origen de Los juegos del hambre) MOLT BONA!
 Ander: Pulp Fiction 
 
